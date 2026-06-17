@@ -22,7 +22,7 @@ CREATE TABLE vendas (
 );
 
 INSERT INTO produtos (nome, categoria, preco) VALUES
-('Mouse Gamer', 'Periféricos', 150.00),
+('Mouse Gamer', 'Periféricos', 1500.00),
 ('Mouse', 'Periféricos', 150.00),
 ('Teclado Mecânico', 'Periféricos', 300.00),
 ('Teclado normal', 'Periféricos', 30.00),
